@@ -3,7 +3,7 @@
 - 🍄 I'm pretty good at Java/R/GO/C + HTML5/CSS/Bootstrap/LaTeX
 - 🌱 I’m currently learning Unity/C#
 
--To create a better future, we need better jobs, that is our vision at [MyMeta](https://MyMeta.Studio)
+🌐To create a better future, we need better jobs, that is our vision and mission at [MyMeta](https://MyMeta.Studio)🌐
 
 <!---
 MoritzPries/MoritzPries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
