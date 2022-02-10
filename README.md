@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @MoritzPries
-- 👀 I’m interested in web3/SolanaNFTs/DeFi/UE/P2E
-- 🌱 I’m currently learning Unity/Java/C#
+- 👀 I’m interessted in web3/DeFi/UX/NFTs/Cross-Chain-token/technology and in everything that combines art with technology!🎵
+- 🍄 I'm pretty good at Java/R/GO/C + HTML5/CSS/Bootstrap/LaTeX
+- 🌱 I’m currently learning Unity/C#
+
+-To create a better future, we need better jobs, that is our vision at [MyMeta](https://MyMeta.Studio)
 
 <!---
 MoritzPries/MoritzPries is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
