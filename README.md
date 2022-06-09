@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moritz
-- 👀 I’m interessted in web3/DeFi/UX/NFTs/Cross-Chain-token/technology and in everything that combines art with technology!🎵
+- 👀 I’m interessted in web3/DeFi/UX and in everything that combines art with technology!🎵
 - 🍄 I'm pretty good at Java/R/GO/C + HTML5/CSS/Bootstrap/LaTeX/XML
 - 🌱 I’m currently learning Unity/C#
 
